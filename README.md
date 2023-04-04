@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Meetup Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple app that allows you to add meetups, show them on a page or add them to your favorites. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
